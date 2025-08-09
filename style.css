@@ -9,6 +9,22 @@ body {
     width: 50px;
 }
 
+ .stats-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+ }
+ .stats-container:hover {
+    cursor: pointer;
+    box-shadow:  0 0 30px lightblue;
+ }
+
+ button:hover{
+    cursor: pointer;
+    color: #758190;
+ }
+
 .header {
     display: flex;
     background-color: lightblue;
