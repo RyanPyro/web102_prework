@@ -11,13 +11,12 @@ Time spent: **12** hours spent in total
 The following **required** functionality is completed:
 
 * [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [ ] The Stats section includes information about the total contributions and dollars raised, as well as the top two most funded games.
 * [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
 * [ ] I have made a search bar that notifies the user whether the game is available.
 
 ## Video Walkthrough
@@ -40,7 +39,7 @@ Thinking of the logic for the search bar. Learning destructuring and its use wit
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Ryan Wahrmann]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
